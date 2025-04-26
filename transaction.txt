@@ -1,1 +1,3 @@
 creating the transaction file
+ Pull request is review mechanism -> We will add reviewers(projects mates) for taking their suggestions.
+ Pull request is used for collabration between team or project mates to review and approve the changes performed in repositories.
