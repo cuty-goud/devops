@@ -1,3 +1,10 @@
 creating the transaction file
  Pull request is review mechanism -> We will add reviewers(projects mates) for taking their suggestions.
  Pull request is used for collabration between team or project mates to review and approve the changes performed in repositories.
+Pull request is review mechanism -> We will add reviewers(projects mates) for taking their suggestions.
+ Pull request is used for collabration between team or project mates to review and approve the changes performed in repositories.
+git branch                    // list all branch
+          git branch branch_name        // create an branch
+          git checkout branch_name      // switch to branch
+          git branch -D branch_name     // delete an branch
+          git checkout -b branch_name   // create and switch branch
