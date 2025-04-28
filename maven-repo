@@ -1,1 +1,5 @@
-
+Project Number: 2089
+groupId: app.backend-app
+artifactId: backend-application
+version: 5.0-SNAPSHOT
+packaging: jar
